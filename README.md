@@ -5,29 +5,29 @@
 
 # Screenshots :
 
-# Hero Section:
-![](Hero.PNG)
+## Hero Section:
+![](Hero-section.PNG)
 
-# Steps How it Works:
-![](Step.PNG)
+## Steps How it Works:
+![](steps.PNG)
 
-# Diets:
-![](diet.PNG)
+## Diets:
+![](diets.PNG)
 
-# Testimonials:
+## Testimonials:
 ![](testimonials.PNG)
 
-# Pricing:
-![](pricing.PNG)
+## Pricing:
+![](Pricing.PNG)
 
-# other Features:
+## other Features:
 ![](other-features.PNG)
 
-# Contact:
+## Contact:
 ![](contact.PNG)
 
-# Footer
+## Footer
 ![](footer.PNG)
 
-#OPtimization Report using LightHouse Tool
+## OPtimization Report using LightHouse Tool
 ![](optimization.PNG)
